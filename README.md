@@ -1,6 +1,6 @@
 <img align="right" height="20" src="https://auterion.com/wp-content/uploads/2020/05/auterion_logo_default_sunrise.svg">
 
-# Ignition Gazebo for MAVLink SITL and HITL Test TEST
+# Ignition Gazebo for MAVLink SITL and HITL Test TEST2
 
 [![Build Tests](https://github.com/Auterion/sitl_ign_gazebo/actions/workflows/build_test.yml/badge.svg)](https://github.com/Auterion/sitl_ign_gazebo/actions/workflows/build_test.yml)
 
